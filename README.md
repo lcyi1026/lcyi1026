@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lcyi1026
+- 👋 Hi, I’m Jie Li
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science and financial mathematics and statistics
 - 💞️ I’m looking to collaborate on ...
